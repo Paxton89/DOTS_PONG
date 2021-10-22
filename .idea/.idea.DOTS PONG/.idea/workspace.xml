@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cbf46ae-4b50-4929-81cb-b6a357c64f3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data Components/PaddleInputData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.17.0-preview.42/Unity.Entities/Stubs/Unity/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data Components/PaddleInputData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/PaddleMovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/PlayerInputSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data Components/BallTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data Components/SpeedIncreaseOverTimeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/IncreaseVelocityOverTimeSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/BallGoalCheckSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zMjiPIUmQWqepK6YUwsA3phdNE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="indent.rainbow.settings.IrConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbf46ae-4b50-4929-81cb-b6a357c64f3c" name="Default Changelist" comment="" />
+      <created>1633964982088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633964982088</updated>
+      <workItem from="1633965009778" duration="1079000" />
+      <workItem from="1634030612623" duration="203000" />
+      <workItem from="1634030834374" duration="486000" />
+      <workItem from="1634132795660" duration="1436000" />
+      <workItem from="1634202411518" duration="2612000" />
+      <workItem from="1634289745824" duration="297000" />
+      <workItem from="1634290068294" duration="1563000" />
+      <workItem from="1634544637276" duration="12142000" />
+      <workItem from="1634650589916" duration="687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2359" y="93" width="1120" height="787" key="SettingsEditor" timestamp="1634031266205">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2359" y="93" width="1120" height="787" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1634031266205" />
+    <state x="2586" y="249" width="926" height="708" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1634030917156">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2586" y="249" width="926" height="708" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1634030917156" />
+  </component>
+</project>
